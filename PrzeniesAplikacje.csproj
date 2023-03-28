@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>True</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <UseWPF>True</UseWPF>
+    <StartupObject>PrzeniesAplikacje.Program</StartupObject>
+    <ApplicationIcon>Computer_icon-icons.com_55509.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Computer_icon-icons.com_55509.ico" />
+  </ItemGroup>
+
+</Project>
