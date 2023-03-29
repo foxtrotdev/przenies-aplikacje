@@ -18,6 +18,8 @@ Application to move programs to the second screen.
 
 The compiled program is available in the `bin` folder.
 
+## Preview
+
 ![preview/preview_2.png](preview/preview_2.png)
 
 ---
@@ -42,4 +44,8 @@ Aplikacja do przenoszenia programów na drugi ekran.
 
 Skompilowana wersja aplikacji znajduje się w folderze `bin`.
 
+## Podgląd
+
 ![preview/preview_1.png](preview/preview_1.png)
+
+![preview/live_1.gif](preview/live_1.gif)
